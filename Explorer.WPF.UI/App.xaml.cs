@@ -4,6 +4,6 @@ namespace Explorer.WPF.UI
 {
     public partial class App
     {
-
+        
     }
 }
